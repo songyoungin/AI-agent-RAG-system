@@ -32,4 +32,5 @@ black = {extras = ["jupyter"], version = "^25.1.0"}
 ruff = "^0.9.5"
 mypy = "^1.15.0"
 pre-commit = "^4.1.0"
+nbqa = "^1.9.1"
 

@@ -19,3 +19,10 @@ repos:
         entry: mypy
         language: system
         types: [python]
+
+      - id: nbqa
+        name: nbqa
+        entry: nbqa black
+        language: system
+        files: \.ipynb$
+        
